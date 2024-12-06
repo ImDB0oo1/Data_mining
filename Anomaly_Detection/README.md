@@ -11,8 +11,6 @@ This repository demonstrates an end-to-end fraud detection pipeline using transa
 - [Modeling and Evaluation](#modeling-and-evaluation)
   - [Without PCA](#without-pca)
   - [With PCA](#with-pca)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 
 ---

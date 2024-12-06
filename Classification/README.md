@@ -2,8 +2,8 @@
 
 This repository explores the **US Accident Dataset** with an emphasis on preprocessing, exploratory data analysis, and classification tasks. The project is divided into two major components:
 
-1. **Data Preprocessing and Cleaning** - Preparing the dataset by handling missing values, feature engineering, and removing outliers.
-2. **Classification Models** - Applying various machine learning algorithms to predict the severity of accidents.
+1. **[Data Preprocessing and Cleaning](Preprocessing_on_us_accident_dataset.ipynb)** - Preparing the dataset by handling missing values, feature engineering, and removing outliers.
+2. **[Classification Models](Classification_on_us_accident_dataset.ipynb)(** - Applying various machine learning algorithms to predict the severity of accidents.
 
 ---
 
